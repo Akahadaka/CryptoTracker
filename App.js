@@ -10,6 +10,7 @@ export default class App extends React.Component {
         <Text>Shake your phone to open the developer menu.</Text>
         <Text>Start modifying the code</Text>
         <Text>How quick are the updates?</Text>
+        <Text>Turns out... pretty instant</Text>
       </View>
     );
   }
