@@ -7,7 +7,7 @@ import {
 const Header = () => {
   return (
     <View>
-      <Text>Cyrptocurrency App</Text>
+      <Text>Redux Test App</Text>
     </View>
   )
 }
