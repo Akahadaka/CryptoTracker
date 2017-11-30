@@ -23,7 +23,7 @@
   },
   "remotedev": {
     "hostname": "localhost",
-    "port": 5678
+    "port": 8000
   },
   "jest": {
     "preset": "jest-expo"
